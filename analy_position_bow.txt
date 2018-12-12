@@ -1,0 +1,2118 @@
+TIME(s)----||----POSITION(m)
+0 --> 0
+TIME(s)----||----POSITION(m)
+0.01 --> 0.0004905
+TIME(s)----||----POSITION(m)
+0.02 --> 0.001962
+TIME(s)----||----POSITION(m)
+0.03 --> 0.00441449
+TIME(s)----||----POSITION(m)
+0.04 --> 0.00784797
+TIME(s)----||----POSITION(m)
+0.05 --> 0.0122624
+TIME(s)----||----POSITION(m)
+0.06 --> 0.0176578
+TIME(s)----||----POSITION(m)
+0.07 --> 0.0240342
+TIME(s)----||----POSITION(m)
+0.08 --> 0.0313915
+TIME(s)----||----POSITION(m)
+0.09 --> 0.0397297
+TIME(s)----||----POSITION(m)
+0.1 --> 0.0490488
+TIME(s)----||----POSITION(m)
+0.11 --> 0.0593487
+TIME(s)----||----POSITION(m)
+0.12 --> 0.0706294
+TIME(s)----||----POSITION(m)
+0.13 --> 0.082891
+TIME(s)----||----POSITION(m)
+0.14 --> 0.0961332
+TIME(s)----||----POSITION(m)
+0.15 --> 0.110356
+TIME(s)----||----POSITION(m)
+0.16 --> 0.12556
+TIME(s)----||----POSITION(m)
+0.17 --> 0.141744
+TIME(s)----||----POSITION(m)
+0.18 --> 0.158909
+TIME(s)----||----POSITION(m)
+0.19 --> 0.177054
+TIME(s)----||----POSITION(m)
+0.2 --> 0.19618
+TIME(s)----||----POSITION(m)
+0.21 --> 0.216286
+TIME(s)----||----POSITION(m)
+0.22 --> 0.237373
+TIME(s)----||----POSITION(m)
+0.23 --> 0.25944
+TIME(s)----||----POSITION(m)
+0.24 --> 0.282487
+TIME(s)----||----POSITION(m)
+0.25 --> 0.306514
+TIME(s)----||----POSITION(m)
+0.26 --> 0.331521
+TIME(s)----||----POSITION(m)
+0.27 --> 0.357509
+TIME(s)----||----POSITION(m)
+0.28 --> 0.384476
+TIME(s)----||----POSITION(m)
+0.29 --> 0.412423
+TIME(s)----||----POSITION(m)
+0.3 --> 0.44135
+TIME(s)----||----POSITION(m)
+0.31 --> 0.471256
+TIME(s)----||----POSITION(m)
+0.32 --> 0.502142
+TIME(s)----||----POSITION(m)
+0.33 --> 0.534008
+TIME(s)----||----POSITION(m)
+0.34 --> 0.566853
+TIME(s)----||----POSITION(m)
+0.35 --> 0.600677
+TIME(s)----||----POSITION(m)
+0.36 --> 0.63548
+TIME(s)----||----POSITION(m)
+0.37 --> 0.671262
+TIME(s)----||----POSITION(m)
+0.38 --> 0.708024
+TIME(s)----||----POSITION(m)
+0.39 --> 0.745764
+TIME(s)----||----POSITION(m)
+0.4 --> 0.784483
+TIME(s)----||----POSITION(m)
+0.41 --> 0.824181
+TIME(s)----||----POSITION(m)
+0.42 --> 0.864857
+TIME(s)----||----POSITION(m)
+0.43 --> 0.906511
+TIME(s)----||----POSITION(m)
+0.44 --> 0.949144
+TIME(s)----||----POSITION(m)
+0.45 --> 0.992755
+TIME(s)----||----POSITION(m)
+0.46 --> 1.03734
+TIME(s)----||----POSITION(m)
+0.47 --> 1.08291
+TIME(s)----||----POSITION(m)
+0.48 --> 1.12945
+TIME(s)----||----POSITION(m)
+0.49 --> 1.17698
+TIME(s)----||----POSITION(m)
+0.5 --> 1.22548
+TIME(s)----||----POSITION(m)
+0.51 --> 1.27495
+TIME(s)----||----POSITION(m)
+0.52 --> 1.32541
+TIME(s)----||----POSITION(m)
+0.53 --> 1.37684
+TIME(s)----||----POSITION(m)
+0.54 --> 1.42925
+TIME(s)----||----POSITION(m)
+0.55 --> 1.48263
+TIME(s)----||----POSITION(m)
+0.56 --> 1.53699
+TIME(s)----||----POSITION(m)
+0.57 --> 1.59233
+TIME(s)----||----POSITION(m)
+0.58 --> 1.64864
+TIME(s)----||----POSITION(m)
+0.59 --> 1.70593
+TIME(s)----||----POSITION(m)
+0.6 --> 1.7642
+TIME(s)----||----POSITION(m)
+0.61 --> 1.82344
+TIME(s)----||----POSITION(m)
+0.62 --> 1.88365
+TIME(s)----||----POSITION(m)
+0.63 --> 1.94485
+TIME(s)----||----POSITION(m)
+0.64 --> 2.00701
+TIME(s)----||----POSITION(m)
+0.65 --> 2.07015
+TIME(s)----||----POSITION(m)
+0.66 --> 2.13427
+TIME(s)----||----POSITION(m)
+0.67 --> 2.19936
+TIME(s)----||----POSITION(m)
+0.68 --> 2.26543
+TIME(s)----||----POSITION(m)
+0.69 --> 2.33247
+TIME(s)----||----POSITION(m)
+0.7 --> 2.40048
+TIME(s)----||----POSITION(m)
+0.71 --> 2.46947
+TIME(s)----||----POSITION(m)
+0.72 --> 2.53943
+TIME(s)----||----POSITION(m)
+0.73 --> 2.61036
+TIME(s)----||----POSITION(m)
+0.74 --> 2.68227
+TIME(s)----||----POSITION(m)
+0.75 --> 2.75515
+TIME(s)----||----POSITION(m)
+0.76 --> 2.829
+TIME(s)----||----POSITION(m)
+0.77 --> 2.90383
+TIME(s)----||----POSITION(m)
+0.78 --> 2.97963
+TIME(s)----||----POSITION(m)
+0.79 --> 3.0564
+TIME(s)----||----POSITION(m)
+0.8 --> 3.13414
+TIME(s)----||----POSITION(m)
+0.81 --> 3.21285
+TIME(s)----||----POSITION(m)
+0.82 --> 3.29254
+TIME(s)----||----POSITION(m)
+0.83 --> 3.37319
+TIME(s)----||----POSITION(m)
+0.84 --> 3.45482
+TIME(s)----||----POSITION(m)
+0.85 --> 3.53741
+TIME(s)----||----POSITION(m)
+0.86 --> 3.62098
+TIME(s)----||----POSITION(m)
+0.87 --> 3.70552
+TIME(s)----||----POSITION(m)
+0.88 --> 3.79102
+TIME(s)----||----POSITION(m)
+0.89 --> 3.8775
+TIME(s)----||----POSITION(m)
+0.9 --> 3.96495
+TIME(s)----||----POSITION(m)
+0.91 --> 4.05336
+TIME(s)----||----POSITION(m)
+0.92 --> 4.14275
+TIME(s)----||----POSITION(m)
+0.93 --> 4.2331
+TIME(s)----||----POSITION(m)
+0.94 --> 4.32442
+TIME(s)----||----POSITION(m)
+0.95 --> 4.41671
+TIME(s)----||----POSITION(m)
+0.96 --> 4.50996
+TIME(s)----||----POSITION(m)
+0.97 --> 4.60419
+TIME(s)----||----POSITION(m)
+0.98 --> 4.69938
+TIME(s)----||----POSITION(m)
+0.99 --> 4.79554
+TIME(s)----||----POSITION(m)
+1 --> 4.89266
+TIME(s)----||----POSITION(m)
+1.01 --> 4.99075
+TIME(s)----||----POSITION(m)
+1.02 --> 5.08981
+TIME(s)----||----POSITION(m)
+1.03 --> 5.18983
+TIME(s)----||----POSITION(m)
+1.04 --> 5.29082
+TIME(s)----||----POSITION(m)
+1.05 --> 5.39277
+TIME(s)----||----POSITION(m)
+1.06 --> 5.49569
+TIME(s)----||----POSITION(m)
+1.07 --> 5.59957
+TIME(s)----||----POSITION(m)
+1.08 --> 5.70441
+TIME(s)----||----POSITION(m)
+1.09 --> 5.81022
+TIME(s)----||----POSITION(m)
+1.1 --> 5.917
+TIME(s)----||----POSITION(m)
+1.11 --> 6.02473
+TIME(s)----||----POSITION(m)
+1.12 --> 6.13343
+TIME(s)----||----POSITION(m)
+1.13 --> 6.2431
+TIME(s)----||----POSITION(m)
+1.14 --> 6.35372
+TIME(s)----||----POSITION(m)
+1.15 --> 6.46531
+TIME(s)----||----POSITION(m)
+1.16 --> 6.57786
+TIME(s)----||----POSITION(m)
+1.17 --> 6.69136
+TIME(s)----||----POSITION(m)
+1.18 --> 6.80583
+TIME(s)----||----POSITION(m)
+1.19 --> 6.92127
+TIME(s)----||----POSITION(m)
+1.2 --> 7.03766
+TIME(s)----||----POSITION(m)
+1.21 --> 7.15501
+TIME(s)----||----POSITION(m)
+1.22 --> 7.27332
+TIME(s)----||----POSITION(m)
+1.23 --> 7.39259
+TIME(s)----||----POSITION(m)
+1.24 --> 7.51282
+TIME(s)----||----POSITION(m)
+1.25 --> 7.634
+TIME(s)----||----POSITION(m)
+1.26 --> 7.75615
+TIME(s)----||----POSITION(m)
+1.27 --> 7.87925
+TIME(s)----||----POSITION(m)
+1.28 --> 8.00331
+TIME(s)----||----POSITION(m)
+1.29 --> 8.12833
+TIME(s)----||----POSITION(m)
+1.3 --> 8.2543
+TIME(s)----||----POSITION(m)
+1.31 --> 8.38123
+TIME(s)----||----POSITION(m)
+1.32 --> 8.50912
+TIME(s)----||----POSITION(m)
+1.33 --> 8.63796
+TIME(s)----||----POSITION(m)
+1.34 --> 8.76776
+TIME(s)----||----POSITION(m)
+1.35 --> 8.89851
+TIME(s)----||----POSITION(m)
+1.36 --> 9.03022
+TIME(s)----||----POSITION(m)
+1.37 --> 9.16288
+TIME(s)----||----POSITION(m)
+1.38 --> 9.29649
+TIME(s)----||----POSITION(m)
+1.39 --> 9.43106
+TIME(s)----||----POSITION(m)
+1.4 --> 9.56658
+TIME(s)----||----POSITION(m)
+1.41 --> 9.70305
+TIME(s)----||----POSITION(m)
+1.42 --> 9.84047
+TIME(s)----||----POSITION(m)
+1.43 --> 9.97885
+TIME(s)----||----POSITION(m)
+1.44 --> 10.1182
+TIME(s)----||----POSITION(m)
+1.45 --> 10.2585
+TIME(s)----||----POSITION(m)
+1.46 --> 10.3997
+TIME(s)----||----POSITION(m)
+1.47 --> 10.5419
+TIME(s)----||----POSITION(m)
+1.48 --> 10.685
+TIME(s)----||----POSITION(m)
+1.49 --> 10.8291
+TIME(s)----||----POSITION(m)
+1.5 --> 10.9741
+TIME(s)----||----POSITION(m)
+1.51 --> 11.1201
+TIME(s)----||----POSITION(m)
+1.52 --> 11.267
+TIME(s)----||----POSITION(m)
+1.53 --> 11.4149
+TIME(s)----||----POSITION(m)
+1.54 --> 11.5637
+TIME(s)----||----POSITION(m)
+1.55 --> 11.7134
+TIME(s)----||----POSITION(m)
+1.56 --> 11.8641
+TIME(s)----||----POSITION(m)
+1.57 --> 12.0158
+TIME(s)----||----POSITION(m)
+1.58 --> 12.1684
+TIME(s)----||----POSITION(m)
+1.59 --> 12.3219
+TIME(s)----||----POSITION(m)
+1.6 --> 12.4764
+TIME(s)----||----POSITION(m)
+1.61 --> 12.6319
+TIME(s)----||----POSITION(m)
+1.62 --> 12.7882
+TIME(s)----||----POSITION(m)
+1.63 --> 12.9456
+TIME(s)----||----POSITION(m)
+1.64 --> 13.1038
+TIME(s)----||----POSITION(m)
+1.65 --> 13.263
+TIME(s)----||----POSITION(m)
+1.66 --> 13.4232
+TIME(s)----||----POSITION(m)
+1.67 --> 13.5843
+TIME(s)----||----POSITION(m)
+1.68 --> 13.7463
+TIME(s)----||----POSITION(m)
+1.69 --> 13.9093
+TIME(s)----||----POSITION(m)
+1.7 --> 14.0732
+TIME(s)----||----POSITION(m)
+1.71 --> 14.238
+TIME(s)----||----POSITION(m)
+1.72 --> 14.4038
+TIME(s)----||----POSITION(m)
+1.73 --> 14.5705
+TIME(s)----||----POSITION(m)
+1.74 --> 14.7382
+TIME(s)----||----POSITION(m)
+1.75 --> 14.9068
+TIME(s)----||----POSITION(m)
+1.76 --> 15.0763
+TIME(s)----||----POSITION(m)
+1.77 --> 15.2468
+TIME(s)----||----POSITION(m)
+1.78 --> 15.4182
+TIME(s)----||----POSITION(m)
+1.79 --> 15.5905
+TIME(s)----||----POSITION(m)
+1.8 --> 15.7638
+TIME(s)----||----POSITION(m)
+1.81 --> 15.938
+TIME(s)----||----POSITION(m)
+1.82 --> 16.1132
+TIME(s)----||----POSITION(m)
+1.83 --> 16.2893
+TIME(s)----||----POSITION(m)
+1.84 --> 16.4663
+TIME(s)----||----POSITION(m)
+1.85 --> 16.6442
+TIME(s)----||----POSITION(m)
+1.86 --> 16.8231
+TIME(s)----||----POSITION(m)
+1.87 --> 17.0029
+TIME(s)----||----POSITION(m)
+1.88 --> 17.1836
+TIME(s)----||----POSITION(m)
+1.89 --> 17.3653
+TIME(s)----||----POSITION(m)
+1.9 --> 17.5479
+TIME(s)----||----POSITION(m)
+1.91 --> 17.7314
+TIME(s)----||----POSITION(m)
+1.92 --> 17.9159
+TIME(s)----||----POSITION(m)
+1.93 --> 18.1013
+TIME(s)----||----POSITION(m)
+1.94 --> 18.2876
+TIME(s)----||----POSITION(m)
+1.95 --> 18.4748
+TIME(s)----||----POSITION(m)
+1.96 --> 18.663
+TIME(s)----||----POSITION(m)
+1.97 --> 18.8521
+TIME(s)----||----POSITION(m)
+1.98 --> 19.0421
+TIME(s)----||----POSITION(m)
+1.99 --> 19.233
+TIME(s)----||----POSITION(m)
+2 --> 19.4249
+TIME(s)----||----POSITION(m)
+2.01 --> 19.6177
+TIME(s)----||----POSITION(m)
+2.02 --> 19.8114
+TIME(s)----||----POSITION(m)
+2.03 --> 20.006
+TIME(s)----||----POSITION(m)
+2.04 --> 20.2016
+TIME(s)----||----POSITION(m)
+2.05 --> 20.3981
+TIME(s)----||----POSITION(m)
+2.06 --> 20.5955
+TIME(s)----||----POSITION(m)
+2.07 --> 20.7938
+TIME(s)----||----POSITION(m)
+2.08 --> 20.9931
+TIME(s)----||----POSITION(m)
+2.09 --> 21.1932
+TIME(s)----||----POSITION(m)
+2.1 --> 21.3943
+TIME(s)----||----POSITION(m)
+2.11 --> 21.5963
+TIME(s)----||----POSITION(m)
+2.12 --> 21.7992
+TIME(s)----||----POSITION(m)
+2.13 --> 22.003
+TIME(s)----||----POSITION(m)
+2.14 --> 22.2078
+TIME(s)----||----POSITION(m)
+2.15 --> 22.4135
+TIME(s)----||----POSITION(m)
+2.16 --> 22.62
+TIME(s)----||----POSITION(m)
+2.17 --> 22.8275
+TIME(s)----||----POSITION(m)
+2.18 --> 23.036
+TIME(s)----||----POSITION(m)
+2.19 --> 23.2453
+TIME(s)----||----POSITION(m)
+2.2 --> 23.4555
+TIME(s)----||----POSITION(m)
+2.21 --> 23.6667
+TIME(s)----||----POSITION(m)
+2.22 --> 23.8787
+TIME(s)----||----POSITION(m)
+2.23 --> 24.0917
+TIME(s)----||----POSITION(m)
+2.24 --> 24.3056
+TIME(s)----||----POSITION(m)
+2.25 --> 24.5204
+TIME(s)----||----POSITION(m)
+2.26 --> 24.7361
+TIME(s)----||----POSITION(m)
+2.27 --> 24.9527
+TIME(s)----||----POSITION(m)
+2.28 --> 25.1702
+TIME(s)----||----POSITION(m)
+2.29 --> 25.3886
+TIME(s)----||----POSITION(m)
+2.3 --> 25.608
+TIME(s)----||----POSITION(m)
+2.31 --> 25.8282
+TIME(s)----||----POSITION(m)
+2.32 --> 26.0494
+TIME(s)----||----POSITION(m)
+2.33 --> 26.2714
+TIME(s)----||----POSITION(m)
+2.34 --> 26.4944
+TIME(s)----||----POSITION(m)
+2.35 --> 26.7182
+TIME(s)----||----POSITION(m)
+2.36 --> 26.943
+TIME(s)----||----POSITION(m)
+2.37 --> 27.1686
+TIME(s)----||----POSITION(m)
+2.38 --> 27.3952
+TIME(s)----||----POSITION(m)
+2.39 --> 27.6227
+TIME(s)----||----POSITION(m)
+2.4 --> 27.8511
+TIME(s)----||----POSITION(m)
+2.41 --> 28.0803
+TIME(s)----||----POSITION(m)
+2.42 --> 28.3105
+TIME(s)----||----POSITION(m)
+2.43 --> 28.5416
+TIME(s)----||----POSITION(m)
+2.44 --> 28.7735
+TIME(s)----||----POSITION(m)
+2.45 --> 29.0064
+TIME(s)----||----POSITION(m)
+2.46 --> 29.2402
+TIME(s)----||----POSITION(m)
+2.47 --> 29.4748
+TIME(s)----||----POSITION(m)
+2.48 --> 29.7104
+TIME(s)----||----POSITION(m)
+2.49 --> 29.9468
+TIME(s)----||----POSITION(m)
+2.5 --> 30.1842
+TIME(s)----||----POSITION(m)
+2.51 --> 30.4224
+TIME(s)----||----POSITION(m)
+2.52 --> 30.6615
+TIME(s)----||----POSITION(m)
+2.53 --> 30.9015
+TIME(s)----||----POSITION(m)
+2.54 --> 31.1424
+TIME(s)----||----POSITION(m)
+2.55 --> 31.3843
+TIME(s)----||----POSITION(m)
+2.56 --> 31.6269
+TIME(s)----||----POSITION(m)
+2.57 --> 31.8705
+TIME(s)----||----POSITION(m)
+2.58 --> 32.115
+TIME(s)----||----POSITION(m)
+2.59 --> 32.3604
+TIME(s)----||----POSITION(m)
+2.6 --> 32.6066
+TIME(s)----||----POSITION(m)
+2.61 --> 32.8537
+TIME(s)----||----POSITION(m)
+2.62 --> 33.1018
+TIME(s)----||----POSITION(m)
+2.63 --> 33.3507
+TIME(s)----||----POSITION(m)
+2.64 --> 33.6005
+TIME(s)----||----POSITION(m)
+2.65 --> 33.8511
+TIME(s)----||----POSITION(m)
+2.66 --> 34.1027
+TIME(s)----||----POSITION(m)
+2.67 --> 34.3551
+TIME(s)----||----POSITION(m)
+2.68 --> 34.6085
+TIME(s)----||----POSITION(m)
+2.69 --> 34.8627
+TIME(s)----||----POSITION(m)
+2.7 --> 35.1178
+TIME(s)----||----POSITION(m)
+2.71 --> 35.3737
+TIME(s)----||----POSITION(m)
+2.72 --> 35.6306
+TIME(s)----||----POSITION(m)
+2.73 --> 35.8883
+TIME(s)----||----POSITION(m)
+2.74 --> 36.1469
+TIME(s)----||----POSITION(m)
+2.75 --> 36.4064
+TIME(s)----||----POSITION(m)
+2.76 --> 36.6668
+TIME(s)----||----POSITION(m)
+2.77 --> 36.928
+TIME(s)----||----POSITION(m)
+2.78 --> 37.1901
+TIME(s)----||----POSITION(m)
+2.79 --> 37.4531
+TIME(s)----||----POSITION(m)
+2.8 --> 37.7169
+TIME(s)----||----POSITION(m)
+2.81 --> 37.9817
+TIME(s)----||----POSITION(m)
+2.82 --> 38.2473
+TIME(s)----||----POSITION(m)
+2.83 --> 38.5137
+TIME(s)----||----POSITION(m)
+2.84 --> 38.7811
+TIME(s)----||----POSITION(m)
+2.85 --> 39.0493
+TIME(s)----||----POSITION(m)
+2.86 --> 39.3184
+TIME(s)----||----POSITION(m)
+2.87 --> 39.5883
+TIME(s)----||----POSITION(m)
+2.88 --> 39.8592
+TIME(s)----||----POSITION(m)
+2.89 --> 40.1309
+TIME(s)----||----POSITION(m)
+2.9 --> 40.4034
+TIME(s)----||----POSITION(m)
+2.91 --> 40.6768
+TIME(s)----||----POSITION(m)
+2.92 --> 40.9511
+TIME(s)----||----POSITION(m)
+2.93 --> 41.2263
+TIME(s)----||----POSITION(m)
+2.94 --> 41.5023
+TIME(s)----||----POSITION(m)
+2.95 --> 41.7792
+TIME(s)----||----POSITION(m)
+2.96 --> 42.0569
+TIME(s)----||----POSITION(m)
+2.97 --> 42.3355
+TIME(s)----||----POSITION(m)
+2.98 --> 42.615
+TIME(s)----||----POSITION(m)
+2.99 --> 42.8953
+TIME(s)----||----POSITION(m)
+3 --> 43.1765
+TIME(s)----||----POSITION(m)
+3.01 --> 43.4585
+TIME(s)----||----POSITION(m)
+3.02 --> 43.7414
+TIME(s)----||----POSITION(m)
+3.03 --> 44.0252
+TIME(s)----||----POSITION(m)
+3.04 --> 44.3098
+TIME(s)----||----POSITION(m)
+3.05 --> 44.5952
+TIME(s)----||----POSITION(m)
+3.06 --> 44.8816
+TIME(s)----||----POSITION(m)
+3.07 --> 45.1687
+TIME(s)----||----POSITION(m)
+3.08 --> 45.4568
+TIME(s)----||----POSITION(m)
+3.09 --> 45.7456
+TIME(s)----||----POSITION(m)
+3.1 --> 46.0354
+TIME(s)----||----POSITION(m)
+3.11 --> 46.326
+TIME(s)----||----POSITION(m)
+3.12 --> 46.6174
+TIME(s)----||----POSITION(m)
+3.13 --> 46.9097
+TIME(s)----||----POSITION(m)
+3.14 --> 47.2028
+TIME(s)----||----POSITION(m)
+3.15 --> 47.4968
+TIME(s)----||----POSITION(m)
+3.16 --> 47.7916
+TIME(s)----||----POSITION(m)
+3.17 --> 48.0873
+TIME(s)----||----POSITION(m)
+3.18 --> 48.3838
+TIME(s)----||----POSITION(m)
+3.19 --> 48.6812
+TIME(s)----||----POSITION(m)
+3.2 --> 48.9794
+TIME(s)----||----POSITION(m)
+3.21 --> 49.2784
+TIME(s)----||----POSITION(m)
+3.22 --> 49.5783
+TIME(s)----||----POSITION(m)
+3.23 --> 49.879
+TIME(s)----||----POSITION(m)
+3.24 --> 50.1806
+TIME(s)----||----POSITION(m)
+3.25 --> 50.483
+TIME(s)----||----POSITION(m)
+3.26 --> 50.7863
+TIME(s)----||----POSITION(m)
+3.27 --> 51.0904
+TIME(s)----||----POSITION(m)
+3.28 --> 51.3953
+TIME(s)----||----POSITION(m)
+3.29 --> 51.7011
+TIME(s)----||----POSITION(m)
+3.3 --> 52.0077
+TIME(s)----||----POSITION(m)
+3.31 --> 52.3151
+TIME(s)----||----POSITION(m)
+3.32 --> 52.6234
+TIME(s)----||----POSITION(m)
+3.33 --> 52.9325
+TIME(s)----||----POSITION(m)
+3.34 --> 53.2425
+TIME(s)----||----POSITION(m)
+3.35 --> 53.5532
+TIME(s)----||----POSITION(m)
+3.36 --> 53.8648
+TIME(s)----||----POSITION(m)
+3.37 --> 54.1773
+TIME(s)----||----POSITION(m)
+3.38 --> 54.4905
+TIME(s)----||----POSITION(m)
+3.39 --> 54.8046
+TIME(s)----||----POSITION(m)
+3.4 --> 55.1195
+TIME(s)----||----POSITION(m)
+3.41 --> 55.4353
+TIME(s)----||----POSITION(m)
+3.42 --> 55.7519
+TIME(s)----||----POSITION(m)
+3.43 --> 56.0693
+TIME(s)----||----POSITION(m)
+3.44 --> 56.3875
+TIME(s)----||----POSITION(m)
+3.45 --> 56.7065
+TIME(s)----||----POSITION(m)
+3.46 --> 57.0264
+TIME(s)----||----POSITION(m)
+3.47 --> 57.3471
+TIME(s)----||----POSITION(m)
+3.48 --> 57.6686
+TIME(s)----||----POSITION(m)
+3.49 --> 57.991
+TIME(s)----||----POSITION(m)
+3.5 --> 58.3141
+TIME(s)----||----POSITION(m)
+3.51 --> 58.6381
+TIME(s)----||----POSITION(m)
+3.52 --> 58.9629
+TIME(s)----||----POSITION(m)
+3.53 --> 59.2885
+TIME(s)----||----POSITION(m)
+3.54 --> 59.615
+TIME(s)----||----POSITION(m)
+3.55 --> 59.9422
+TIME(s)----||----POSITION(m)
+3.56 --> 60.2703
+TIME(s)----||----POSITION(m)
+3.57 --> 60.5991
+TIME(s)----||----POSITION(m)
+3.58 --> 60.9288
+TIME(s)----||----POSITION(m)
+3.59 --> 61.2593
+TIME(s)----||----POSITION(m)
+3.6 --> 61.5906
+TIME(s)----||----POSITION(m)
+3.61 --> 61.9228
+TIME(s)----||----POSITION(m)
+3.62 --> 62.2557
+TIME(s)----||----POSITION(m)
+3.63 --> 62.5895
+TIME(s)----||----POSITION(m)
+3.64 --> 62.924
+TIME(s)----||----POSITION(m)
+3.65 --> 63.2594
+TIME(s)----||----POSITION(m)
+3.66 --> 63.5955
+TIME(s)----||----POSITION(m)
+3.67 --> 63.9325
+TIME(s)----||----POSITION(m)
+3.68 --> 64.2703
+TIME(s)----||----POSITION(m)
+3.69 --> 64.6089
+TIME(s)----||----POSITION(m)
+3.7 --> 64.9483
+TIME(s)----||----POSITION(m)
+3.71 --> 65.2885
+TIME(s)----||----POSITION(m)
+3.72 --> 65.6294
+TIME(s)----||----POSITION(m)
+3.73 --> 65.9712
+TIME(s)----||----POSITION(m)
+3.74 --> 66.3138
+TIME(s)----||----POSITION(m)
+3.75 --> 66.6572
+TIME(s)----||----POSITION(m)
+3.76 --> 67.0014
+TIME(s)----||----POSITION(m)
+3.77 --> 67.3464
+TIME(s)----||----POSITION(m)
+3.78 --> 67.6922
+TIME(s)----||----POSITION(m)
+3.79 --> 68.0388
+TIME(s)----||----POSITION(m)
+3.8 --> 68.3861
+TIME(s)----||----POSITION(m)
+3.81 --> 68.7343
+TIME(s)----||----POSITION(m)
+3.82 --> 69.0833
+TIME(s)----||----POSITION(m)
+3.83 --> 69.433
+TIME(s)----||----POSITION(m)
+3.84 --> 69.7836
+TIME(s)----||----POSITION(m)
+3.85 --> 70.1349
+TIME(s)----||----POSITION(m)
+3.86 --> 70.487
+TIME(s)----||----POSITION(m)
+3.87 --> 70.84
+TIME(s)----||----POSITION(m)
+3.88 --> 71.1937
+TIME(s)----||----POSITION(m)
+3.89 --> 71.5481
+TIME(s)----||----POSITION(m)
+3.9 --> 71.9034
+TIME(s)----||----POSITION(m)
+3.91 --> 72.2595
+TIME(s)----||----POSITION(m)
+3.92 --> 72.6163
+TIME(s)----||----POSITION(m)
+3.93 --> 72.974
+TIME(s)----||----POSITION(m)
+3.94 --> 73.3324
+TIME(s)----||----POSITION(m)
+3.95 --> 73.6916
+TIME(s)----||----POSITION(m)
+3.96 --> 74.0516
+TIME(s)----||----POSITION(m)
+3.97 --> 74.4123
+TIME(s)----||----POSITION(m)
+3.98 --> 74.7739
+TIME(s)----||----POSITION(m)
+3.99 --> 75.1362
+TIME(s)----||----POSITION(m)
+4 --> 75.4993
+TIME(s)----||----POSITION(m)
+4.01 --> 75.8631
+TIME(s)----||----POSITION(m)
+4.02 --> 76.2278
+TIME(s)----||----POSITION(m)
+4.03 --> 76.5932
+TIME(s)----||----POSITION(m)
+4.04 --> 76.9594
+TIME(s)----||----POSITION(m)
+4.05 --> 77.3264
+TIME(s)----||----POSITION(m)
+4.06 --> 77.6941
+TIME(s)----||----POSITION(m)
+4.07 --> 78.0626
+TIME(s)----||----POSITION(m)
+4.08 --> 78.4319
+TIME(s)----||----POSITION(m)
+4.09 --> 78.802
+TIME(s)----||----POSITION(m)
+4.1 --> 79.1728
+TIME(s)----||----POSITION(m)
+4.11 --> 79.5444
+TIME(s)----||----POSITION(m)
+4.12 --> 79.9168
+TIME(s)----||----POSITION(m)
+4.13 --> 80.2899
+TIME(s)----||----POSITION(m)
+4.14 --> 80.6638
+TIME(s)----||----POSITION(m)
+4.15 --> 81.0384
+TIME(s)----||----POSITION(m)
+4.16 --> 81.4138
+TIME(s)----||----POSITION(m)
+4.17 --> 81.79
+TIME(s)----||----POSITION(m)
+4.18 --> 82.167
+TIME(s)----||----POSITION(m)
+4.19 --> 82.5447
+TIME(s)----||----POSITION(m)
+4.2 --> 82.9231
+TIME(s)----||----POSITION(m)
+4.21 --> 83.3024
+TIME(s)----||----POSITION(m)
+4.22 --> 83.6824
+TIME(s)----||----POSITION(m)
+4.23 --> 84.0631
+TIME(s)----||----POSITION(m)
+4.24 --> 84.4446
+TIME(s)----||----POSITION(m)
+4.25 --> 84.8268
+TIME(s)----||----POSITION(m)
+4.26 --> 85.2098
+TIME(s)----||----POSITION(m)
+4.27 --> 85.5936
+TIME(s)----||----POSITION(m)
+4.28 --> 85.9781
+TIME(s)----||----POSITION(m)
+4.29 --> 86.3634
+TIME(s)----||----POSITION(m)
+4.3 --> 86.7494
+TIME(s)----||----POSITION(m)
+4.31 --> 87.1362
+TIME(s)----||----POSITION(m)
+4.32 --> 87.5237
+TIME(s)----||----POSITION(m)
+4.33 --> 87.912
+TIME(s)----||----POSITION(m)
+4.34 --> 88.301
+TIME(s)----||----POSITION(m)
+4.35 --> 88.6907
+TIME(s)----||----POSITION(m)
+4.36 --> 89.0812
+TIME(s)----||----POSITION(m)
+4.37 --> 89.4725
+TIME(s)----||----POSITION(m)
+4.38 --> 89.8645
+TIME(s)----||----POSITION(m)
+4.39 --> 90.2572
+TIME(s)----||----POSITION(m)
+4.4 --> 90.6507
+TIME(s)----||----POSITION(m)
+4.41 --> 91.0449
+TIME(s)----||----POSITION(m)
+4.42 --> 91.4399
+TIME(s)----||----POSITION(m)
+4.43 --> 91.8356
+TIME(s)----||----POSITION(m)
+4.44 --> 92.232
+TIME(s)----||----POSITION(m)
+4.45 --> 92.6292
+TIME(s)----||----POSITION(m)
+4.46 --> 93.0271
+TIME(s)----||----POSITION(m)
+4.47 --> 93.4258
+TIME(s)----||----POSITION(m)
+4.48 --> 93.8252
+TIME(s)----||----POSITION(m)
+4.49 --> 94.2253
+TIME(s)----||----POSITION(m)
+4.5 --> 94.6261
+TIME(s)----||----POSITION(m)
+4.51 --> 95.0277
+TIME(s)----||----POSITION(m)
+4.52 --> 95.43
+TIME(s)----||----POSITION(m)
+4.53 --> 95.8331
+TIME(s)----||----POSITION(m)
+4.54 --> 96.2369
+TIME(s)----||----POSITION(m)
+4.55 --> 96.6414
+TIME(s)----||----POSITION(m)
+4.56 --> 97.0466
+TIME(s)----||----POSITION(m)
+4.57 --> 97.4526
+TIME(s)----||----POSITION(m)
+4.58 --> 97.8593
+TIME(s)----||----POSITION(m)
+4.59 --> 98.2667
+TIME(s)----||----POSITION(m)
+4.6 --> 98.6748
+TIME(s)----||----POSITION(m)
+4.61 --> 99.0837
+TIME(s)----||----POSITION(m)
+4.62 --> 99.4933
+TIME(s)----||----POSITION(m)
+4.63 --> 99.9036
+TIME(s)----||----POSITION(m)
+4.64 --> 100.315
+TIME(s)----||----POSITION(m)
+4.65 --> 100.726
+TIME(s)----||----POSITION(m)
+4.66 --> 101.139
+TIME(s)----||----POSITION(m)
+4.67 --> 101.552
+TIME(s)----||----POSITION(m)
+4.68 --> 101.966
+TIME(s)----||----POSITION(m)
+4.69 --> 102.38
+TIME(s)----||----POSITION(m)
+4.7 --> 102.796
+TIME(s)----||----POSITION(m)
+4.71 --> 103.212
+TIME(s)----||----POSITION(m)
+4.72 --> 103.629
+TIME(s)----||----POSITION(m)
+4.73 --> 104.046
+TIME(s)----||----POSITION(m)
+4.74 --> 104.464
+TIME(s)----||----POSITION(m)
+4.75 --> 104.883
+TIME(s)----||----POSITION(m)
+4.76 --> 105.303
+TIME(s)----||----POSITION(m)
+4.77 --> 105.723
+TIME(s)----||----POSITION(m)
+4.78 --> 106.144
+TIME(s)----||----POSITION(m)
+4.79 --> 106.566
+TIME(s)----||----POSITION(m)
+4.8 --> 106.988
+TIME(s)----||----POSITION(m)
+4.81 --> 107.411
+TIME(s)----||----POSITION(m)
+4.82 --> 107.835
+TIME(s)----||----POSITION(m)
+4.83 --> 108.26
+TIME(s)----||----POSITION(m)
+4.84 --> 108.685
+TIME(s)----||----POSITION(m)
+4.85 --> 109.111
+TIME(s)----||----POSITION(m)
+4.86 --> 109.538
+TIME(s)----||----POSITION(m)
+4.87 --> 109.965
+TIME(s)----||----POSITION(m)
+4.88 --> 110.393
+TIME(s)----||----POSITION(m)
+4.89 --> 110.822
+TIME(s)----||----POSITION(m)
+4.9 --> 111.251
+TIME(s)----||----POSITION(m)
+4.91 --> 111.681
+TIME(s)----||----POSITION(m)
+4.92 --> 112.112
+TIME(s)----||----POSITION(m)
+4.93 --> 112.544
+TIME(s)----||----POSITION(m)
+4.94 --> 112.976
+TIME(s)----||----POSITION(m)
+4.95 --> 113.409
+TIME(s)----||----POSITION(m)
+4.96 --> 113.842
+TIME(s)----||----POSITION(m)
+4.97 --> 114.277
+TIME(s)----||----POSITION(m)
+4.98 --> 114.711
+TIME(s)----||----POSITION(m)
+4.99 --> 115.147
+TIME(s)----||----POSITION(m)
+5 --> 115.583
+TIME(s)----||----POSITION(m)
+5.01 --> 116.021
+TIME(s)----||----POSITION(m)
+5.02 --> 116.458
+TIME(s)----||----POSITION(m)
+5.03 --> 116.897
+TIME(s)----||----POSITION(m)
+5.04 --> 117.336
+TIME(s)----||----POSITION(m)
+5.05 --> 117.776
+TIME(s)----||----POSITION(m)
+5.06 --> 118.216
+TIME(s)----||----POSITION(m)
+5.07 --> 118.657
+TIME(s)----||----POSITION(m)
+5.08 --> 119.099
+TIME(s)----||----POSITION(m)
+5.09 --> 119.541
+TIME(s)----||----POSITION(m)
+5.1 --> 119.985
+TIME(s)----||----POSITION(m)
+5.11 --> 120.428
+TIME(s)----||----POSITION(m)
+5.12 --> 120.873
+TIME(s)----||----POSITION(m)
+5.13 --> 121.318
+TIME(s)----||----POSITION(m)
+5.14 --> 121.764
+TIME(s)----||----POSITION(m)
+5.15 --> 122.211
+TIME(s)----||----POSITION(m)
+5.16 --> 122.658
+TIME(s)----||----POSITION(m)
+5.17 --> 123.106
+TIME(s)----||----POSITION(m)
+5.18 --> 123.554
+TIME(s)----||----POSITION(m)
+5.19 --> 124.003
+TIME(s)----||----POSITION(m)
+5.2 --> 124.453
+TIME(s)----||----POSITION(m)
+5.21 --> 124.904
+TIME(s)----||----POSITION(m)
+5.22 --> 125.355
+TIME(s)----||----POSITION(m)
+5.23 --> 125.807
+TIME(s)----||----POSITION(m)
+5.24 --> 126.26
+TIME(s)----||----POSITION(m)
+5.25 --> 126.713
+TIME(s)----||----POSITION(m)
+5.26 --> 127.167
+TIME(s)----||----POSITION(m)
+5.27 --> 127.621
+TIME(s)----||----POSITION(m)
+5.28 --> 128.077
+TIME(s)----||----POSITION(m)
+5.29 --> 128.532
+TIME(s)----||----POSITION(m)
+5.3 --> 128.989
+TIME(s)----||----POSITION(m)
+5.31 --> 129.446
+TIME(s)----||----POSITION(m)
+5.32 --> 129.904
+TIME(s)----||----POSITION(m)
+5.33 --> 130.362
+TIME(s)----||----POSITION(m)
+5.34 --> 130.822
+TIME(s)----||----POSITION(m)
+5.35 --> 131.281
+TIME(s)----||----POSITION(m)
+5.36 --> 131.742
+TIME(s)----||----POSITION(m)
+5.37 --> 132.203
+TIME(s)----||----POSITION(m)
+5.38 --> 132.665
+TIME(s)----||----POSITION(m)
+5.39 --> 133.127
+TIME(s)----||----POSITION(m)
+5.4 --> 133.59
+TIME(s)----||----POSITION(m)
+5.41 --> 134.054
+TIME(s)----||----POSITION(m)
+5.42 --> 134.518
+TIME(s)----||----POSITION(m)
+5.43 --> 134.983
+TIME(s)----||----POSITION(m)
+5.44 --> 135.449
+TIME(s)----||----POSITION(m)
+5.45 --> 135.915
+TIME(s)----||----POSITION(m)
+5.46 --> 136.382
+TIME(s)----||----POSITION(m)
+5.47 --> 136.85
+TIME(s)----||----POSITION(m)
+5.48 --> 137.318
+TIME(s)----||----POSITION(m)
+5.49 --> 137.787
+TIME(s)----||----POSITION(m)
+5.5 --> 138.257
+TIME(s)----||----POSITION(m)
+5.51 --> 138.727
+TIME(s)----||----POSITION(m)
+5.52 --> 139.198
+TIME(s)----||----POSITION(m)
+5.53 --> 139.669
+TIME(s)----||----POSITION(m)
+5.54 --> 140.141
+TIME(s)----||----POSITION(m)
+5.55 --> 140.614
+TIME(s)----||----POSITION(m)
+5.56 --> 141.087
+TIME(s)----||----POSITION(m)
+5.57 --> 141.561
+TIME(s)----||----POSITION(m)
+5.58 --> 142.036
+TIME(s)----||----POSITION(m)
+5.59 --> 142.511
+TIME(s)----||----POSITION(m)
+5.6 --> 142.987
+TIME(s)----||----POSITION(m)
+5.61 --> 143.464
+TIME(s)----||----POSITION(m)
+5.62 --> 143.941
+TIME(s)----||----POSITION(m)
+5.63 --> 144.418
+TIME(s)----||----POSITION(m)
+5.64 --> 144.897
+TIME(s)----||----POSITION(m)
+5.65 --> 145.376
+TIME(s)----||----POSITION(m)
+5.66 --> 145.856
+TIME(s)----||----POSITION(m)
+5.67 --> 146.336
+TIME(s)----||----POSITION(m)
+5.68 --> 146.817
+TIME(s)----||----POSITION(m)
+5.69 --> 147.298
+TIME(s)----||----POSITION(m)
+5.7 --> 147.78
+TIME(s)----||----POSITION(m)
+5.71 --> 148.263
+TIME(s)----||----POSITION(m)
+5.72 --> 148.747
+TIME(s)----||----POSITION(m)
+5.73 --> 149.231
+TIME(s)----||----POSITION(m)
+5.74 --> 149.715
+TIME(s)----||----POSITION(m)
+5.75 --> 150.2
+TIME(s)----||----POSITION(m)
+5.76 --> 150.686
+TIME(s)----||----POSITION(m)
+5.77 --> 151.173
+TIME(s)----||----POSITION(m)
+5.78 --> 151.66
+TIME(s)----||----POSITION(m)
+5.79 --> 152.148
+TIME(s)----||----POSITION(m)
+5.8 --> 152.636
+TIME(s)----||----POSITION(m)
+5.81 --> 153.125
+TIME(s)----||----POSITION(m)
+5.82 --> 153.614
+TIME(s)----||----POSITION(m)
+5.83 --> 154.105
+TIME(s)----||----POSITION(m)
+5.84 --> 154.595
+TIME(s)----||----POSITION(m)
+5.85 --> 155.087
+TIME(s)----||----POSITION(m)
+5.86 --> 155.579
+TIME(s)----||----POSITION(m)
+5.87 --> 156.071
+TIME(s)----||----POSITION(m)
+5.88 --> 156.565
+TIME(s)----||----POSITION(m)
+5.89 --> 157.058
+TIME(s)----||----POSITION(m)
+5.9 --> 157.553
+TIME(s)----||----POSITION(m)
+5.91 --> 158.048
+TIME(s)----||----POSITION(m)
+5.92 --> 158.543
+TIME(s)----||----POSITION(m)
+5.93 --> 159.04
+TIME(s)----||----POSITION(m)
+5.94 --> 159.536
+TIME(s)----||----POSITION(m)
+5.95 --> 160.034
+TIME(s)----||----POSITION(m)
+5.96 --> 160.532
+TIME(s)----||----POSITION(m)
+5.97 --> 161.03
+TIME(s)----||----POSITION(m)
+5.98 --> 161.53
+TIME(s)----||----POSITION(m)
+5.99 --> 162.029
+TIME(s)----||----POSITION(m)
+6 --> 162.53
+TIME(s)----||----POSITION(m)
+6.01 --> 163.031
+TIME(s)----||----POSITION(m)
+6.02 --> 163.532
+TIME(s)----||----POSITION(m)
+6.03 --> 164.034
+TIME(s)----||----POSITION(m)
+6.04 --> 164.537
+TIME(s)----||----POSITION(m)
+6.05 --> 165.041
+TIME(s)----||----POSITION(m)
+6.06 --> 165.545
+TIME(s)----||----POSITION(m)
+6.07 --> 166.049
+TIME(s)----||----POSITION(m)
+6.08 --> 166.554
+TIME(s)----||----POSITION(m)
+6.09 --> 167.06
+TIME(s)----||----POSITION(m)
+6.1 --> 167.566
+TIME(s)----||----POSITION(m)
+6.11 --> 168.073
+TIME(s)----||----POSITION(m)
+6.12 --> 168.58
+TIME(s)----||----POSITION(m)
+6.13 --> 169.089
+TIME(s)----||----POSITION(m)
+6.14 --> 169.597
+TIME(s)----||----POSITION(m)
+6.15 --> 170.106
+TIME(s)----||----POSITION(m)
+6.16 --> 170.616
+TIME(s)----||----POSITION(m)
+6.17 --> 171.126
+TIME(s)----||----POSITION(m)
+6.18 --> 171.637
+TIME(s)----||----POSITION(m)
+6.19 --> 172.149
+TIME(s)----||----POSITION(m)
+6.2 --> 172.661
+TIME(s)----||----POSITION(m)
+6.21 --> 173.174
+TIME(s)----||----POSITION(m)
+6.22 --> 173.687
+TIME(s)----||----POSITION(m)
+6.23 --> 174.201
+TIME(s)----||----POSITION(m)
+6.24 --> 174.715
+TIME(s)----||----POSITION(m)
+6.25 --> 175.23
+TIME(s)----||----POSITION(m)
+6.26 --> 175.746
+TIME(s)----||----POSITION(m)
+6.27 --> 176.262
+TIME(s)----||----POSITION(m)
+6.28 --> 176.778
+TIME(s)----||----POSITION(m)
+6.29 --> 177.296
+TIME(s)----||----POSITION(m)
+6.3 --> 177.813
+TIME(s)----||----POSITION(m)
+6.31 --> 178.332
+TIME(s)----||----POSITION(m)
+6.32 --> 178.851
+TIME(s)----||----POSITION(m)
+6.33 --> 179.37
+TIME(s)----||----POSITION(m)
+6.34 --> 179.89
+TIME(s)----||----POSITION(m)
+6.35 --> 180.411
+TIME(s)----||----POSITION(m)
+6.36 --> 180.932
+TIME(s)----||----POSITION(m)
+6.37 --> 181.454
+TIME(s)----||----POSITION(m)
+6.38 --> 181.976
+TIME(s)----||----POSITION(m)
+6.39 --> 182.499
+TIME(s)----||----POSITION(m)
+6.4 --> 183.022
+TIME(s)----||----POSITION(m)
+6.41 --> 183.546
+TIME(s)----||----POSITION(m)
+6.42 --> 184.071
+TIME(s)----||----POSITION(m)
+6.43 --> 184.596
+TIME(s)----||----POSITION(m)
+6.44 --> 185.122
+TIME(s)----||----POSITION(m)
+6.45 --> 185.648
+TIME(s)----||----POSITION(m)
+6.46 --> 186.175
+TIME(s)----||----POSITION(m)
+6.47 --> 186.702
+TIME(s)----||----POSITION(m)
+6.48 --> 187.23
+TIME(s)----||----POSITION(m)
+6.49 --> 187.758
+TIME(s)----||----POSITION(m)
+6.5 --> 188.287
+TIME(s)----||----POSITION(m)
+6.51 --> 188.817
+TIME(s)----||----POSITION(m)
+6.52 --> 189.347
+TIME(s)----||----POSITION(m)
+6.53 --> 189.877
+TIME(s)----||----POSITION(m)
+6.54 --> 190.409
+TIME(s)----||----POSITION(m)
+6.55 --> 190.94
+TIME(s)----||----POSITION(m)
+6.56 --> 191.472
+TIME(s)----||----POSITION(m)
+6.57 --> 192.005
+TIME(s)----||----POSITION(m)
+6.58 --> 192.539
+TIME(s)----||----POSITION(m)
+6.59 --> 193.072
+TIME(s)----||----POSITION(m)
+6.6 --> 193.607
+TIME(s)----||----POSITION(m)
+6.61 --> 194.142
+TIME(s)----||----POSITION(m)
+6.62 --> 194.677
+TIME(s)----||----POSITION(m)
+6.63 --> 195.213
+TIME(s)----||----POSITION(m)
+6.64 --> 195.75
+TIME(s)----||----POSITION(m)
+6.65 --> 196.287
+TIME(s)----||----POSITION(m)
+6.66 --> 196.825
+TIME(s)----||----POSITION(m)
+6.67 --> 197.363
+TIME(s)----||----POSITION(m)
+6.68 --> 197.901
+TIME(s)----||----POSITION(m)
+6.69 --> 198.441
+TIME(s)----||----POSITION(m)
+6.7 --> 198.98
+TIME(s)----||----POSITION(m)
+6.71 --> 199.521
+TIME(s)----||----POSITION(m)
+6.72 --> 200.061
+TIME(s)----||----POSITION(m)
+6.73 --> 200.603
+TIME(s)----||----POSITION(m)
+6.74 --> 201.145
+TIME(s)----||----POSITION(m)
+6.75 --> 201.687
+TIME(s)----||----POSITION(m)
+6.76 --> 202.23
+TIME(s)----||----POSITION(m)
+6.77 --> 202.773
+TIME(s)----||----POSITION(m)
+6.78 --> 203.317
+TIME(s)----||----POSITION(m)
+6.79 --> 203.862
+TIME(s)----||----POSITION(m)
+6.8 --> 204.407
+TIME(s)----||----POSITION(m)
+6.81 --> 204.952
+TIME(s)----||----POSITION(m)
+6.82 --> 205.499
+TIME(s)----||----POSITION(m)
+6.83 --> 206.045
+TIME(s)----||----POSITION(m)
+6.84 --> 206.592
+TIME(s)----||----POSITION(m)
+6.85 --> 207.14
+TIME(s)----||----POSITION(m)
+6.86 --> 207.688
+TIME(s)----||----POSITION(m)
+6.87 --> 208.237
+TIME(s)----||----POSITION(m)
+6.88 --> 208.786
+TIME(s)----||----POSITION(m)
+6.89 --> 209.335
+TIME(s)----||----POSITION(m)
+6.9 --> 209.886
+TIME(s)----||----POSITION(m)
+6.91 --> 210.436
+TIME(s)----||----POSITION(m)
+6.92 --> 210.988
+TIME(s)----||----POSITION(m)
+6.93 --> 211.539
+TIME(s)----||----POSITION(m)
+6.94 --> 212.092
+TIME(s)----||----POSITION(m)
+6.95 --> 212.644
+TIME(s)----||----POSITION(m)
+6.96 --> 213.198
+TIME(s)----||----POSITION(m)
+6.97 --> 213.751
+TIME(s)----||----POSITION(m)
+6.98 --> 214.306
+TIME(s)----||----POSITION(m)
+6.99 --> 214.86
+TIME(s)----||----POSITION(m)
+7 --> 215.416
+TIME(s)----||----POSITION(m)
+7.01 --> 215.972
+TIME(s)----||----POSITION(m)
+7.02 --> 216.528
+TIME(s)----||----POSITION(m)
+7.03 --> 217.085
+TIME(s)----||----POSITION(m)
+7.04 --> 217.642
+TIME(s)----||----POSITION(m)
+7.05 --> 218.2
+TIME(s)----||----POSITION(m)
+7.06 --> 218.758
+TIME(s)----||----POSITION(m)
+7.07 --> 219.317
+TIME(s)----||----POSITION(m)
+7.08 --> 219.876
+TIME(s)----||----POSITION(m)
+7.09 --> 220.436
+TIME(s)----||----POSITION(m)
+7.1 --> 220.996
+TIME(s)----||----POSITION(m)
+7.11 --> 221.557
+TIME(s)----||----POSITION(m)
+7.12 --> 222.118
+TIME(s)----||----POSITION(m)
+7.13 --> 222.68
+TIME(s)----||----POSITION(m)
+7.14 --> 223.242
+TIME(s)----||----POSITION(m)
+7.15 --> 223.805
+TIME(s)----||----POSITION(m)
+7.16 --> 224.368
+TIME(s)----||----POSITION(m)
+7.17 --> 224.932
+TIME(s)----||----POSITION(m)
+7.18 --> 225.496
+TIME(s)----||----POSITION(m)
+7.19 --> 226.061
+TIME(s)----||----POSITION(m)
+7.2 --> 226.626
+TIME(s)----||----POSITION(m)
+7.21 --> 227.192
+TIME(s)----||----POSITION(m)
+7.22 --> 227.758
+TIME(s)----||----POSITION(m)
+7.23 --> 228.325
+TIME(s)----||----POSITION(m)
+7.24 --> 228.892
+TIME(s)----||----POSITION(m)
+7.25 --> 229.459
+TIME(s)----||----POSITION(m)
+7.26 --> 230.028
+TIME(s)----||----POSITION(m)
+7.27 --> 230.596
+TIME(s)----||----POSITION(m)
+7.28 --> 231.165
+TIME(s)----||----POSITION(m)
+7.29 --> 231.735
+TIME(s)----||----POSITION(m)
+7.3 --> 232.305
+TIME(s)----||----POSITION(m)
+7.31 --> 232.875
+TIME(s)----||----POSITION(m)
+7.32 --> 233.446
+TIME(s)----||----POSITION(m)
+7.33 --> 234.018
+TIME(s)----||----POSITION(m)
+7.34 --> 234.59
+TIME(s)----||----POSITION(m)
+7.35 --> 235.162
+TIME(s)----||----POSITION(m)
+7.36 --> 235.735
+TIME(s)----||----POSITION(m)
+7.37 --> 236.309
+TIME(s)----||----POSITION(m)
+7.38 --> 236.882
+TIME(s)----||----POSITION(m)
+7.39 --> 237.457
+TIME(s)----||----POSITION(m)
+7.4 --> 238.031
+TIME(s)----||----POSITION(m)
+7.41 --> 238.607
+TIME(s)----||----POSITION(m)
+7.42 --> 239.182
+TIME(s)----||----POSITION(m)
+7.43 --> 239.759
+TIME(s)----||----POSITION(m)
+7.44 --> 240.335
+TIME(s)----||----POSITION(m)
+7.45 --> 240.912
+TIME(s)----||----POSITION(m)
+7.46 --> 241.49
+TIME(s)----||----POSITION(m)
+7.47 --> 242.068
+TIME(s)----||----POSITION(m)
+7.48 --> 242.647
+TIME(s)----||----POSITION(m)
+7.49 --> 243.226
+TIME(s)----||----POSITION(m)
+7.5 --> 243.805
+TIME(s)----||----POSITION(m)
+7.51 --> 244.385
+TIME(s)----||----POSITION(m)
+7.52 --> 244.965
+TIME(s)----||----POSITION(m)
+7.53 --> 245.546
+TIME(s)----||----POSITION(m)
+7.54 --> 246.127
+TIME(s)----||----POSITION(m)
+7.55 --> 246.709
+TIME(s)----||----POSITION(m)
+7.56 --> 247.291
+TIME(s)----||----POSITION(m)
+7.57 --> 247.874
+TIME(s)----||----POSITION(m)
+7.58 --> 248.457
+TIME(s)----||----POSITION(m)
+7.59 --> 249.041
+TIME(s)----||----POSITION(m)
+7.6 --> 249.625
+TIME(s)----||----POSITION(m)
+7.61 --> 250.209
+TIME(s)----||----POSITION(m)
+7.62 --> 250.794
+TIME(s)----||----POSITION(m)
+7.63 --> 251.38
+TIME(s)----||----POSITION(m)
+7.64 --> 251.965
+TIME(s)----||----POSITION(m)
+7.65 --> 252.552
+TIME(s)----||----POSITION(m)
+7.66 --> 253.138
+TIME(s)----||----POSITION(m)
+7.67 --> 253.726
+TIME(s)----||----POSITION(m)
+7.68 --> 254.313
+TIME(s)----||----POSITION(m)
+7.69 --> 254.901
+TIME(s)----||----POSITION(m)
+7.7 --> 255.49
+TIME(s)----||----POSITION(m)
+7.71 --> 256.079
+TIME(s)----||----POSITION(m)
+7.72 --> 256.668
+TIME(s)----||----POSITION(m)
+7.73 --> 257.258
+TIME(s)----||----POSITION(m)
+7.74 --> 257.849
+TIME(s)----||----POSITION(m)
+7.75 --> 258.439
+TIME(s)----||----POSITION(m)
+7.76 --> 259.03
+TIME(s)----||----POSITION(m)
+7.77 --> 259.622
+TIME(s)----||----POSITION(m)
+7.78 --> 260.214
+TIME(s)----||----POSITION(m)
+7.79 --> 260.807
+TIME(s)----||----POSITION(m)
+7.8 --> 261.4
+TIME(s)----||----POSITION(m)
+7.81 --> 261.993
+TIME(s)----||----POSITION(m)
+7.82 --> 262.587
+TIME(s)----||----POSITION(m)
+7.83 --> 263.181
+TIME(s)----||----POSITION(m)
+7.84 --> 263.776
+TIME(s)----||----POSITION(m)
+7.85 --> 264.371
+TIME(s)----||----POSITION(m)
+7.86 --> 264.966
+TIME(s)----||----POSITION(m)
+7.87 --> 265.562
+TIME(s)----||----POSITION(m)
+7.88 --> 266.159
+TIME(s)----||----POSITION(m)
+7.89 --> 266.756
+TIME(s)----||----POSITION(m)
+7.9 --> 267.353
+TIME(s)----||----POSITION(m)
+7.91 --> 267.951
+TIME(s)----||----POSITION(m)
+7.92 --> 268.549
+TIME(s)----||----POSITION(m)
+7.93 --> 269.147
+TIME(s)----||----POSITION(m)
+7.94 --> 269.746
+TIME(s)----||----POSITION(m)
+7.95 --> 270.346
+TIME(s)----||----POSITION(m)
+7.96 --> 270.946
+TIME(s)----||----POSITION(m)
+7.97 --> 271.546
+TIME(s)----||----POSITION(m)
+7.98 --> 272.147
+TIME(s)----||----POSITION(m)
+7.99 --> 272.748
+TIME(s)----||----POSITION(m)
+8 --> 273.349
+TIME(s)----||----POSITION(m)
+8.01 --> 273.951
+TIME(s)----||----POSITION(m)
+8.02 --> 274.554
+TIME(s)----||----POSITION(m)
+8.03 --> 275.157
+TIME(s)----||----POSITION(m)
+8.04 --> 275.76
+TIME(s)----||----POSITION(m)
+8.05 --> 276.363
+TIME(s)----||----POSITION(m)
+8.06 --> 276.968
+TIME(s)----||----POSITION(m)
+8.07 --> 277.572
+TIME(s)----||----POSITION(m)
+8.08 --> 278.177
+TIME(s)----||----POSITION(m)
+8.09 --> 278.782
+TIME(s)----||----POSITION(m)
+8.1 --> 279.388
+TIME(s)----||----POSITION(m)
+8.11 --> 279.994
+TIME(s)----||----POSITION(m)
+8.12 --> 280.601
+TIME(s)----||----POSITION(m)
+8.13 --> 281.208
+TIME(s)----||----POSITION(m)
+8.14 --> 281.815
+TIME(s)----||----POSITION(m)
+8.15 --> 282.423
+TIME(s)----||----POSITION(m)
+8.16 --> 283.031
+TIME(s)----||----POSITION(m)
+8.17 --> 283.64
+TIME(s)----||----POSITION(m)
+8.18 --> 284.249
+TIME(s)----||----POSITION(m)
+8.19 --> 284.858
+TIME(s)----||----POSITION(m)
+8.2 --> 285.468
+TIME(s)----||----POSITION(m)
+8.21 --> 286.078
+TIME(s)----||----POSITION(m)
+8.22 --> 286.689
+TIME(s)----||----POSITION(m)
+8.23 --> 287.3
+TIME(s)----||----POSITION(m)
+8.24 --> 287.911
+TIME(s)----||----POSITION(m)
+8.25 --> 288.523
+TIME(s)----||----POSITION(m)
+8.26 --> 289.135
+TIME(s)----||----POSITION(m)
+8.27 --> 289.748
+TIME(s)----||----POSITION(m)
+8.28 --> 290.361
+TIME(s)----||----POSITION(m)
+8.29 --> 290.974
+TIME(s)----||----POSITION(m)
+8.3 --> 291.588
+TIME(s)----||----POSITION(m)
+8.31 --> 292.203
+TIME(s)----||----POSITION(m)
+8.32 --> 292.817
+TIME(s)----||----POSITION(m)
+8.33 --> 293.432
+TIME(s)----||----POSITION(m)
+8.34 --> 294.048
+TIME(s)----||----POSITION(m)
+8.35 --> 294.664
+TIME(s)----||----POSITION(m)
+8.36 --> 295.28
+TIME(s)----||----POSITION(m)
+8.37 --> 295.896
+TIME(s)----||----POSITION(m)
+8.38 --> 296.513
+TIME(s)----||----POSITION(m)
+8.39 --> 297.131
+TIME(s)----||----POSITION(m)
+8.4 --> 297.749
+TIME(s)----||----POSITION(m)
+8.41 --> 298.367
+TIME(s)----||----POSITION(m)
+8.42 --> 298.985
+TIME(s)----||----POSITION(m)
+8.43 --> 299.604
+TIME(s)----||----POSITION(m)
+8.44 --> 300.224
+TIME(s)----||----POSITION(m)
+8.45 --> 300.844
+TIME(s)----||----POSITION(m)
+8.46 --> 301.464
+TIME(s)----||----POSITION(m)
+8.47 --> 302.084
+TIME(s)----||----POSITION(m)
+8.48 --> 302.705
+TIME(s)----||----POSITION(m)
+8.49 --> 303.326
+TIME(s)----||----POSITION(m)
+8.5 --> 303.948
+TIME(s)----||----POSITION(m)
+8.51 --> 304.57
+TIME(s)----||----POSITION(m)
+8.52 --> 305.193
+TIME(s)----||----POSITION(m)
+8.53 --> 305.815
+TIME(s)----||----POSITION(m)
+8.54 --> 306.439
+TIME(s)----||----POSITION(m)
+8.55 --> 307.062
+TIME(s)----||----POSITION(m)
+8.56 --> 307.686
+TIME(s)----||----POSITION(m)
+8.57 --> 308.311
+TIME(s)----||----POSITION(m)
+8.58 --> 308.935
+TIME(s)----||----POSITION(m)
+8.59 --> 309.56
+TIME(s)----||----POSITION(m)
+8.6 --> 310.186
+TIME(s)----||----POSITION(m)
+8.61 --> 310.812
+TIME(s)----||----POSITION(m)
+8.62 --> 311.438
+TIME(s)----||----POSITION(m)
+8.63 --> 312.065
+TIME(s)----||----POSITION(m)
+8.64 --> 312.692
+TIME(s)----||----POSITION(m)
+8.65 --> 313.319
+TIME(s)----||----POSITION(m)
+8.66 --> 313.947
+TIME(s)----||----POSITION(m)
+8.67 --> 314.575
+TIME(s)----||----POSITION(m)
+8.68 --> 315.203
+TIME(s)----||----POSITION(m)
+8.69 --> 315.832
+TIME(s)----||----POSITION(m)
+8.7 --> 316.461
+TIME(s)----||----POSITION(m)
+8.71 --> 317.091
+TIME(s)----||----POSITION(m)
+8.72 --> 317.721
+TIME(s)----||----POSITION(m)
+8.73 --> 318.351
+TIME(s)----||----POSITION(m)
+8.74 --> 318.982
+TIME(s)----||----POSITION(m)
+8.75 --> 319.613
+TIME(s)----||----POSITION(m)
+8.76 --> 320.244
+TIME(s)----||----POSITION(m)
+8.77 --> 320.876
+TIME(s)----||----POSITION(m)
+8.78 --> 321.508
+TIME(s)----||----POSITION(m)
+8.79 --> 322.141
+TIME(s)----||----POSITION(m)
+8.8 --> 322.774
+TIME(s)----||----POSITION(m)
+8.81 --> 323.407
+TIME(s)----||----POSITION(m)
+8.82 --> 324.041
+TIME(s)----||----POSITION(m)
+8.83 --> 324.674
+TIME(s)----||----POSITION(m)
+8.84 --> 325.309
+TIME(s)----||----POSITION(m)
+8.85 --> 325.943
+TIME(s)----||----POSITION(m)
+8.86 --> 326.578
+TIME(s)----||----POSITION(m)
+8.87 --> 327.214
+TIME(s)----||----POSITION(m)
+8.88 --> 327.85
+TIME(s)----||----POSITION(m)
+8.89 --> 328.486
+TIME(s)----||----POSITION(m)
+8.9 --> 329.122
+TIME(s)----||----POSITION(m)
+8.91 --> 329.759
+TIME(s)----||----POSITION(m)
+8.92 --> 330.396
+TIME(s)----||----POSITION(m)
+8.93 --> 331.034
+TIME(s)----||----POSITION(m)
+8.94 --> 331.672
+TIME(s)----||----POSITION(m)
+8.95 --> 332.31
+TIME(s)----||----POSITION(m)
+8.96 --> 332.948
+TIME(s)----||----POSITION(m)
+8.97 --> 333.587
+TIME(s)----||----POSITION(m)
+8.98 --> 334.227
+TIME(s)----||----POSITION(m)
+8.99 --> 334.866
+TIME(s)----||----POSITION(m)
+9 --> 335.506
+TIME(s)----||----POSITION(m)
+9.01 --> 336.147
+TIME(s)----||----POSITION(m)
+9.02 --> 336.787
+TIME(s)----||----POSITION(m)
+9.03 --> 337.428
+TIME(s)----||----POSITION(m)
+9.04 --> 338.07
+TIME(s)----||----POSITION(m)
+9.05 --> 338.711
+TIME(s)----||----POSITION(m)
+9.06 --> 339.353
+TIME(s)----||----POSITION(m)
+9.07 --> 339.996
+TIME(s)----||----POSITION(m)
+9.08 --> 340.638
+TIME(s)----||----POSITION(m)
+9.09 --> 341.282
+TIME(s)----||----POSITION(m)
+9.1 --> 341.925
+TIME(s)----||----POSITION(m)
+9.11 --> 342.569
+TIME(s)----||----POSITION(m)
+9.12 --> 343.213
+TIME(s)----||----POSITION(m)
+9.13 --> 343.857
+TIME(s)----||----POSITION(m)
+9.14 --> 344.502
+TIME(s)----||----POSITION(m)
+9.15 --> 345.147
+TIME(s)----||----POSITION(m)
+9.16 --> 345.793
+TIME(s)----||----POSITION(m)
+9.17 --> 346.438
+TIME(s)----||----POSITION(m)
+9.18 --> 347.085
+TIME(s)----||----POSITION(m)
+9.19 --> 347.731
+TIME(s)----||----POSITION(m)
+9.2 --> 348.378
+TIME(s)----||----POSITION(m)
+9.21 --> 349.025
+TIME(s)----||----POSITION(m)
+9.22 --> 349.672
+TIME(s)----||----POSITION(m)
+9.23 --> 350.32
+TIME(s)----||----POSITION(m)
+9.24 --> 350.968
+TIME(s)----||----POSITION(m)
+9.25 --> 351.617
+TIME(s)----||----POSITION(m)
+9.26 --> 352.266
+TIME(s)----||----POSITION(m)
+9.27 --> 352.915
+TIME(s)----||----POSITION(m)
+9.28 --> 353.564
+TIME(s)----||----POSITION(m)
+9.29 --> 354.214
+TIME(s)----||----POSITION(m)
+9.3 --> 354.864
+TIME(s)----||----POSITION(m)
+9.31 --> 355.515
+TIME(s)----||----POSITION(m)
+9.32 --> 356.165
+TIME(s)----||----POSITION(m)
+9.33 --> 356.816
+TIME(s)----||----POSITION(m)
+9.34 --> 357.468
+TIME(s)----||----POSITION(m)
+9.35 --> 358.12
+TIME(s)----||----POSITION(m)
+9.36 --> 358.772
+TIME(s)----||----POSITION(m)
+9.37 --> 359.424
+TIME(s)----||----POSITION(m)
+9.38 --> 360.077
+TIME(s)----||----POSITION(m)
+9.39 --> 360.73
+TIME(s)----||----POSITION(m)
+9.4 --> 361.383
+TIME(s)----||----POSITION(m)
+9.41 --> 362.037
+TIME(s)----||----POSITION(m)
+9.42 --> 362.691
+TIME(s)----||----POSITION(m)
+9.43 --> 363.345
+TIME(s)----||----POSITION(m)
+9.44 --> 364
+TIME(s)----||----POSITION(m)
+9.45 --> 364.655
+TIME(s)----||----POSITION(m)
+9.46 --> 365.31
+TIME(s)----||----POSITION(m)
+9.47 --> 365.966
+TIME(s)----||----POSITION(m)
+9.48 --> 366.622
+TIME(s)----||----POSITION(m)
+9.49 --> 367.278
+TIME(s)----||----POSITION(m)
+9.5 --> 367.934
+TIME(s)----||----POSITION(m)
+9.51 --> 368.591
+TIME(s)----||----POSITION(m)
+9.52 --> 369.249
+TIME(s)----||----POSITION(m)
+9.53 --> 369.906
+TIME(s)----||----POSITION(m)
+9.54 --> 370.564
+TIME(s)----||----POSITION(m)
+9.55 --> 371.222
+TIME(s)----||----POSITION(m)
+9.56 --> 371.88
+TIME(s)----||----POSITION(m)
+9.57 --> 372.539
+TIME(s)----||----POSITION(m)
+9.58 --> 373.198
+TIME(s)----||----POSITION(m)
+9.59 --> 373.857
+TIME(s)----||----POSITION(m)
+9.6 --> 374.517
+TIME(s)----||----POSITION(m)
+9.61 --> 375.177
+TIME(s)----||----POSITION(m)
+9.62 --> 375.837
+TIME(s)----||----POSITION(m)
+9.63 --> 376.498
+TIME(s)----||----POSITION(m)
+9.64 --> 377.159
+TIME(s)----||----POSITION(m)
+9.65 --> 377.82
+TIME(s)----||----POSITION(m)
+9.66 --> 378.482
+TIME(s)----||----POSITION(m)
+9.67 --> 379.143
+TIME(s)----||----POSITION(m)
+9.68 --> 379.806
+TIME(s)----||----POSITION(m)
+9.69 --> 380.468
+TIME(s)----||----POSITION(m)
+9.7 --> 381.131
+TIME(s)----||----POSITION(m)
+9.71 --> 381.794
+TIME(s)----||----POSITION(m)
+9.72 --> 382.457
+TIME(s)----||----POSITION(m)
+9.73 --> 383.121
+TIME(s)----||----POSITION(m)
+9.74 --> 383.785
+TIME(s)----||----POSITION(m)
+9.75 --> 384.449
+TIME(s)----||----POSITION(m)
+9.76 --> 385.113
+TIME(s)----||----POSITION(m)
+9.77 --> 385.778
+TIME(s)----||----POSITION(m)
+9.78 --> 386.443
+TIME(s)----||----POSITION(m)
+9.79 --> 387.109
+TIME(s)----||----POSITION(m)
+9.8 --> 387.774
+TIME(s)----||----POSITION(m)
+9.81 --> 388.44
+TIME(s)----||----POSITION(m)
+9.82 --> 389.107
+TIME(s)----||----POSITION(m)
+9.83 --> 389.773
+TIME(s)----||----POSITION(m)
+9.84 --> 390.44
+TIME(s)----||----POSITION(m)
+9.85 --> 391.107
+TIME(s)----||----POSITION(m)
+9.86 --> 391.775
+TIME(s)----||----POSITION(m)
+9.87 --> 392.443
+TIME(s)----||----POSITION(m)
+9.88 --> 393.111
+TIME(s)----||----POSITION(m)
+9.89 --> 393.779
+TIME(s)----||----POSITION(m)
+9.9 --> 394.448
+TIME(s)----||----POSITION(m)
+9.91 --> 395.117
+TIME(s)----||----POSITION(m)
+9.92 --> 395.786
+TIME(s)----||----POSITION(m)
+9.93 --> 396.455
+TIME(s)----||----POSITION(m)
+9.94 --> 397.125
+TIME(s)----||----POSITION(m)
+9.95 --> 397.795
+TIME(s)----||----POSITION(m)
+9.96 --> 398.466
+TIME(s)----||----POSITION(m)
+9.97 --> 399.136
+TIME(s)----||----POSITION(m)
+9.98 --> 399.807
+TIME(s)----||----POSITION(m)
+9.99 --> 400.479
+TIME(s)----||----POSITION(m)
+10 --> 401.15
+TIME(s)----||----POSITION(m)
+10.01 --> 401.822
+TIME(s)----||----POSITION(m)
+10.02 --> 402.494
+TIME(s)----||----POSITION(m)
+10.03 --> 403.166
+TIME(s)----||----POSITION(m)
+10.04 --> 403.839
+TIME(s)----||----POSITION(m)
+10.05 --> 404.512
+TIME(s)----||----POSITION(m)
+10.06 --> 405.185
+TIME(s)----||----POSITION(m)
+10.07 --> 405.859
+TIME(s)----||----POSITION(m)
+10.08 --> 406.532
+TIME(s)----||----POSITION(m)
+10.09 --> 407.206
+TIME(s)----||----POSITION(m)
+10.1 --> 407.881
+TIME(s)----||----POSITION(m)
+10.11 --> 408.555
+TIME(s)----||----POSITION(m)
+10.12 --> 409.23
+TIME(s)----||----POSITION(m)
+10.13 --> 409.905
+TIME(s)----||----POSITION(m)
+10.14 --> 410.581
+TIME(s)----||----POSITION(m)
+10.15 --> 411.257
+TIME(s)----||----POSITION(m)
+10.16 --> 411.933
+TIME(s)----||----POSITION(m)
+10.17 --> 412.609
+TIME(s)----||----POSITION(m)
+10.18 --> 413.285
+TIME(s)----||----POSITION(m)
+10.19 --> 413.962
+TIME(s)----||----POSITION(m)
+10.2 --> 414.639
+TIME(s)----||----POSITION(m)
+10.21 --> 415.317
+TIME(s)----||----POSITION(m)
+10.22 --> 415.994
+TIME(s)----||----POSITION(m)
+10.23 --> 416.672
+TIME(s)----||----POSITION(m)
+10.24 --> 417.35
+TIME(s)----||----POSITION(m)
+10.25 --> 418.029
+TIME(s)----||----POSITION(m)
+10.26 --> 418.708
+TIME(s)----||----POSITION(m)
+10.27 --> 419.387
+TIME(s)----||----POSITION(m)
+10.28 --> 420.066
+TIME(s)----||----POSITION(m)
+10.29 --> 420.745
+TIME(s)----||----POSITION(m)
+10.3 --> 421.425
+TIME(s)----||----POSITION(m)
+10.31 --> 422.105
+TIME(s)----||----POSITION(m)
+10.32 --> 422.786
+TIME(s)----||----POSITION(m)
+10.33 --> 423.466
+TIME(s)----||----POSITION(m)
+10.34 --> 424.147
+TIME(s)----||----POSITION(m)
+10.35 --> 424.828
+TIME(s)----||----POSITION(m)
+10.36 --> 425.51
+TIME(s)----||----POSITION(m)
+10.37 --> 426.191
+TIME(s)----||----POSITION(m)
+10.38 --> 426.873
+TIME(s)----||----POSITION(m)
+10.39 --> 427.555
+TIME(s)----||----POSITION(m)
+10.4 --> 428.238
+TIME(s)----||----POSITION(m)
+10.41 --> 428.92
+TIME(s)----||----POSITION(m)
+10.42 --> 429.603
+TIME(s)----||----POSITION(m)
+10.43 --> 430.287
+TIME(s)----||----POSITION(m)
+10.44 --> 430.97
+TIME(s)----||----POSITION(m)
+10.45 --> 431.654
+TIME(s)----||----POSITION(m)
+10.46 --> 432.338
+TIME(s)----||----POSITION(m)
+10.47 --> 433.022
+TIME(s)----||----POSITION(m)
+10.48 --> 433.706
+TIME(s)----||----POSITION(m)
+10.49 --> 434.391
+TIME(s)----||----POSITION(m)
+10.5 --> 435.076
+TIME(s)----||----POSITION(m)
+10.51 --> 435.762
+TIME(s)----||----POSITION(m)
+10.52 --> 436.447
+TIME(s)----||----POSITION(m)
+10.53 --> 437.133
+TIME(s)----||----POSITION(m)
+10.54 --> 437.819
+TIME(s)----||----POSITION(m)
+10.55 --> 438.505
+TIME(s)----||----POSITION(m)
+10.56 --> 439.192
+TIME(s)----||----POSITION(m)
+10.57 --> 439.879
+TIME(s)----||----POSITION(m)
+10.58 --> 440.566
